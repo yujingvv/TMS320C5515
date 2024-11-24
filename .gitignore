@@ -1,0 +1,8 @@
+Debug/
+Release/
+usbstk5515_v1/
+.*
+!.project
+!.cproject
+!.ccsproject
+!.gitignore
