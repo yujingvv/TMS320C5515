@@ -5,7 +5,7 @@
 1. 从 [TI 官网](https://www.ti.com/tool/CCSTUDIO) 下载并安装最新版本（或从[附件文件](https://github.com/lab-iu6/TMS320C5515/blob/setup/установка/ccs_setup_12.8.1.00005.exe)安装）
 
    安装时只需选择 C55x ultra-low-power DSP 组件，如下图所示。
-   [图片]
+   ![img1](./gitimg/set1.png)
 
 2. 下载并安装 [Code Generation Tools](https://github.com/lab-iu6/TMS320C5515/blob/setup/установка/ti_cgt_c5500_4.4.1_setup_win32.exe)（包含编译器、汇编器、链接器等）。
 
