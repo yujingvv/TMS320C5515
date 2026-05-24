@@ -1,0 +1,8 @@
+.jxbrowser.userdata/
+*.class
+*.o
+*.out
+Debug/
+Release/
+.settings/
+.metadata/
