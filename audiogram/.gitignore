@@ -1,0 +1,9 @@
+# Compiled executables
+tms320_sim
+test_fft
+test_stft
+test_transpose
+gen_test_signal
+# Generated audio files
+synth.wav
+out.wav
